@@ -24,4 +24,4 @@ jobs:
         uses: docker/build-push-action@v4
         with:
           push: true
-          tags: gchr.io/yitzchak/archlinux-makepkg:latest
+          tags: yitzchak/archlinux-makepkg:latest
